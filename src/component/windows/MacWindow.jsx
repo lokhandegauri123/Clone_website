@@ -1,11 +1,20 @@
 import React, { Children } from 'react'
 import {Rnd} from 'react-rnd'
 import './MacWindow.scss'
-const MacWindow = ({children}) => {
+const MacWindow = ({children, width="40vw",height="40vh"}) => {
   return (
-    <Rnd>
+    <Rnd
+    default={{
+        width:width,
+        height:height,
+        x:300,
+        y:200
+
+    }
+
+    }>
         <div className="window">
-            <div className="nav">
+            <div className="nav">   
                 <div className="dots">
                     <div className="red dot"></div>
                     <div className="green dot"></div>

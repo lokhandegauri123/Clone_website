@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://placehold.co/400x250?text=Social+Sprout",
+    "title": "Social Sprout",
+    "desc": "A social media platform designed for safe, polite, and meaningful conversations. Includes real-time chat, games, and a panic button feature for user safety.",
+    "tags": ["React", "Node.js", "MongoDB", "Socket.io"],
+    "repolink": "https://github.com/username/social-sprout",
+    "demolink": "https://social-sprout-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://placehold.co/400x250?text=Real-Time+Chat+App",
+    "title": "Real-Time Chat App",
+    "desc": "A one-to-one real-time chat application with online status, message timestamps, and instant message delivery.",
+    "tags": ["React", "Firebase", "CSS"],
+    "repolink": "https://github.com/username/realtime-chat-app",
+    "demolink": "https://realtime-chat-demo.netlify.app"
+  },
+  {
+    "id": 3,
+    "image": "https://placehold.co/400x250?text=Traffic+Management+System",
+    "title": "Traffic Management System",
+    "desc": "A C++ based traffic management system that handles vehicle data and simulates traffic movement using basic animations.",
+    "tags": ["C++", "OOP", "Data Structures"],
+    "repolink": "https://github.com/username/traffic-management-system",
+    "demolink": ""
+  },
+  {
+    "id": 4,
+    "image": "https://placehold.co/400x250?text=Portfolio+Website",
+    "title": "Personal Portfolio Website",
+    "desc": "A responsive personal portfolio website to showcase projects, skills, and contact information.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "repolink": "https://github.com/username/portfolio-website",
+    "demolink": "https://username-portfolio.netlify.app"
+  },
+  {
+    "id": 5,
+    "image": "https://placehold.co/400x250?text=Weather+App",
+    "title": "Weather Forecast App",
+    "desc": "A weather forecasting application that displays real-time weather data using a public API.",
+    "tags": ["JavaScript", "API", "Bootstrap"],
+    "repolink": "https://github.com/username/weather-app",
+    "demolink": "https://weather-app-demo.vercel.app"
+  },
+  {
+    "id": 6,
+    "image": "https://placehold.co/400x250?text=To-Do+App",
+    "title": "To-Do List App",
+    "desc": "A simple and efficient to-do list application with task creation, deletion, and completion tracking.",
+    "tags": ["React", "LocalStorage"],
+    "repolink": "https://github.com/username/todo-app",
+    "demolink": "https://todo-app-demo.netlify.app"
+  },
+  {
+    "id": 7,
+    "image": "https://placehold.co/400x250?text=LeetCode+Solutions",
+    "title": "DSA Practice & LeetCode Solutions",
+    "desc": "A collection of solved DSA and LeetCode problems with clean code and easy-to-understand explanations.",
+    "tags": ["JavaScript", "DSA", "Algorithms"],
+    "repolink": "https://github.com/username/dsa-leetcode-solutions",
+    "demolink": ""
+  },
+  {
+    "id": 8,
+    "image": "https://placehold.co/400x250?text=Chatbot+App",
+    "title": "AI Chatbot Application",
+    "desc": "An AI-powered chatbot application that responds to user queries in real time.",
+    "tags": ["JavaScript", "API", "AI"],
+    "repolink": "https://github.com/username/ai-chatbot-app",
+    "demolink": ""
+  }
+]
